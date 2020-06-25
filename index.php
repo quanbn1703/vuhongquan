@@ -40,7 +40,7 @@
             cursor: pointer;
         }
         .card-header h3{
-            color: white;
+            color: black;
         }
         .social_icon{
             position: absolute;
