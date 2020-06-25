@@ -28,7 +28,7 @@
             margin-top: auto;
             margin-bottom: auto;
             width: 400px;
-            background-color: rgba(0,0,0,0.5) !important;
+            ) !important;
         }
         .social_icon span{
             font-size: 60px;
@@ -49,8 +49,8 @@
         }
         .input-group-prepend span{
             width: 50px;
-            background-color: #FFC312;
-            color: black;
+            
+            
             border:0 !important;
         }
         input:focus{
@@ -69,12 +69,12 @@
         }
         .login_btn{
             color: black;
-            background-color: #FFC312;
+          
             width: 355px;
         }
         .login_btn:hover{
             color: black;
-            background-color: white;
+            
         }
         .links{
             color: white;
